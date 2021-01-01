@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2021 Spanish Goals
-permalink: /mygithubpage/spanish-2021/
+permalink: /spanish-2021/
 ---
 
 ## Goal
