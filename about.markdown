@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /mygithubpage/about/
 ---
 
 ![Shane](/images/shane.jpg)
