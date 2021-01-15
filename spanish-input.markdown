@@ -6,7 +6,7 @@ permalink: /spanish-2021/
 
 ## Goal
 
-This page will be the home of a graph tracking my progress towards my goal of consuming 300 hours of comprehensible input in Spanish in 2021.
+This page will be the home of a graph tracking my progress towards my goal of consuming 300 hours of comprehensible input in Spanish in 2021. ([Source Data](https://docs.google.com/spreadsheets/d/12KCONdOaUDQiKJN_qVyg5UThw-cOb47TEZh9tbDlnE8/edit?usp=sharing))
 
 ![image](/graphs/comprehensible-input-graph.svg)
 
